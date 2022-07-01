@@ -1,6 +1,4 @@
 from datetime import date, timedelta, datetime
-import pandas as pd
-import sys
 import requests
 
 def descargar_data_sen(str_date):
